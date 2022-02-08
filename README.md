@@ -1,2 +1,2 @@
 # ping-pong-game
-C
+Ping pong game running on console
